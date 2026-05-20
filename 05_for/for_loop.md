@@ -1,0 +1,16 @@
+___
+
+##### Run Command:
+`java for_loop.java`
+
+##### Results:
+`1`
+`2`
+`3`
+`7`
+`8`
+`9`
+`loop`
+`1`
+`3`
+`5`

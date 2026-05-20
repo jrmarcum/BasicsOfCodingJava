@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(go run *)",
+      "Bash(echo \"exit code: $?\")",
+      "Bash(java *.java)",
+      "Bash(sed -i 's/`java string-formatting\\\\.java`/`java string_formatting.java`/g' /d/Programs/_ProgramExamples/Example_Programs/GithubProjects/BasicsOfCodingJava/46_string-formatting/string_formatting.md)",
+      "Bash(sed -i 's/`java regular-expressions\\\\.java`/`java regular_expressions.java`/g' /d/Programs/_ProgramExamples/Example_Programs/GithubProjects/BasicsOfCodingJava/47_regular-expressions/regular_expressions.md)"
+    ]
+  }
+}
