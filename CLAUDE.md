@@ -18,10 +18,10 @@ The structural reference is **BasicsOfCodingC**
 (https://github.com/jrmarcum/BasicsOfCodingC). Match its repo layout,
 CLAUDE.md shape, NOTICE/LICENSE structure, and lesson `.md` format exactly.
 
-> **Note:** There is no `upstream/` submodule in this repo. To reference the
-> Go originals, clone <https://github.com/jrmarcum/BasicsOfCodingGo> separately.
-> All 78 lessons are already implemented; the upstream is only needed if adding
-> or modifying lessons.
+> **Note:** The `upstream/basicsofcodinggo` submodule points to
+> <https://github.com/jrmarcum/BasicsOfCodingGo>. Run `git submodule update --init`
+> after cloning to populate it. All 78 lessons are already implemented; the
+> upstream is only needed if adding or modifying lessons.
 
 ## Project Status
 
